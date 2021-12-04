@@ -2,4 +2,5 @@ flags: {}
 packages:
 - '.'
 extra-deps: [monad-gen-0.3.0.1]
-resolver: lts-9.0
+resolver:
+  url: https://raw.githubusercontent.com/commercialhaskell/stackage-snapshots/master/lts/18/18.yaml

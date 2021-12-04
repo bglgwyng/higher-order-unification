@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src/Main.hs"
+      component: "higher-order-unification:exe:proglet"
+
+    - path: "./src"
+      component: "higher-order-unification:lib"
